@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -10,4 +10,4 @@ Currently, two official plugins are available:
 =======
 # quiz-app
 
->>>>>>> c6362395af79924c25b6e74d7b4ada43efe3715c
+
